@@ -120,7 +120,7 @@ The next table shows the comparison between **BeoLiving Intelligence ESSENTIAL**
       </td>
     </tr>
     <tr title="Automatically creates pages with scenes, lights, shades and thermostats relative to the room where it is located">
-      <td>Halo Remote Automatic Configuration</td>
+      <td>Halo Remote automatic configuration</td>
       <td class="text-center">
         <i class="fa fa-check" style="color: #eb5946"></i>
       </td>
@@ -193,7 +193,7 @@ The next table shows the comparison between **BeoLiving Intelligence ESSENTIAL**
       </td>
     </tr>
     <tr title="Create buttons with specific behaviors or create your own through lua macros">
-      <td>Customizable Halo Remote configurations</td>
+      <td>Customization of Halo Remote</td>
       <td class="text-center">
       </td>
       <td class="text-center">
