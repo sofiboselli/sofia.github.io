@@ -15,12 +15,12 @@ They are automatically discovered on the network and can be added to Zones eithe
 Available inputs vary depending on the ControlLink product, they can be found in the "Interface" tab, under "AV Products" where they can be hidden in the app. Every ControlLink product offers the input B&O NetRadio, where radios all over the world can be found.
 
 The supported commands are all the standard AV RENDERER commands including:
-	- PLAY/PAUSE/STOP
-	- NEXT/PREV
-	- SET VOLUME/MUTE
-	- SELECT INPUT
-	- SET CONTENT ID
-	- TURN ON/STANDBY
+- PLAY/PAUSE/STOP
+- NEXT/PREV
+- SET VOLUME/MUTE
+- SELECT INPUT
+- SET CONTENT ID
+- TURN ON/STANDBY
 
 The state includes the selected input, the playing state (play, pause etc.), volume information, the selected source, and information about what is currently playing such as name, artist, album and album artwork. 
 
