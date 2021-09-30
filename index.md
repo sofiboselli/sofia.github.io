@@ -185,17 +185,18 @@ The next table shows the comparison between **BeoLiving Intelligence ESSENTIAL**
     </tr>
   </tbody>
 </table>
+
 <a id="Essential"/>
 
-**BeoLiving Intelligence PRO** transforms into the custom installer dream controller. With its Real-Time Configuration platform, it provides the 
-simplest yet most powerful way to integrate, control and automate an entire home. Even if you don't own any **Bang & Olufsen** products, your 
-unique home automation and audio/video ecosystem will be accessible as one entity through the expertly crafted **BeoLiving App**.
+## Essential
 
-Also, migrating from _BeoLink Gateway_ to _BeoLiving Intelligence_ in _PRO_ mode is possible and only takes a few steps. If you are a 
-_BeoLink Gateway_ installer check our [quick introduction](bli-guides/bli-for-blgw-installers.md) explaining the main differences between both 
-controllers and instructions on how to migrate from one controller to another.
+**BeoLiving Intelligence Essential** is the fastlane towards Home Automation. Connect the BLI to your network and power it up, on the BeoLiving app for iOS* add your B&O speakers, Philips Hue lights, and ONVIF cameras, and configure simple automation _Scenes_ throught your house.
 
-## Start now!
+Recreate your home on the app* with all the zones you wish, and integrate your equipment with Voice Assistants such as Alexa or Google Assistant.
+
+> \* Configuration of a BLI Essential is only possible on the iOS BeoLiving app, the Android app allows _control_ but not _configuration_.
+
+### Start now!
 
 **BeoLiving Intelligence** does not need an installer, a few simple, non technical steps and it's ready to shine.
 
@@ -252,7 +253,16 @@ Watch an example of a simple home installation done in **only four minutes** usi
 
 
 <a id="PRO"/>
+
 ## PRO
+
+**BeoLiving Intelligence PRO** transforms into the custom installer dream controller. With its Real-Time Configuration platform, it provides the 
+simplest yet most powerful way to integrate, control and automate an entire home. Even if you don't own any **Bang & Olufsen** products, your 
+unique home automation and audio/video ecosystem will be accessible as one entity through the expertly crafted **BeoLiving App**.
+
+Also, migrating from _BeoLink Gateway_ to _BeoLiving Intelligence_ in _PRO_ mode is possible and only takes a few steps. If you are a 
+_BeoLink Gateway_ installer check our [quick introduction](bli-guides/bli-for-blgw-installers.md) explaining the main differences between both 
+controllers and instructions on how to migrate from one controller to another.
 
 To experience all of what **BeoLiving Intelligence** is capable of, upgrade to its **PRO** mode. Go to the _PRO User guide_ to learn all of its 
 functionalities and features, and refer to the _System drivers guide_ if you want information about a specific supported driver. _BLI for BLGW 
@@ -309,6 +319,17 @@ installers_ shows the main differences between both controllers and explains the
   </div>
   <div class="col-lg-4">
      <div align="center">
+     <a class="nav-link js-scroll-trigger sr-button" href="https://rise.articulate.com/share/77YbL6bWwSYALvqVH3Bf7lgji8TFH5L2" data-sr-id="16" style="; visibility: visible;  -webkit-transform: translateY(0) scale(1); opacity: 1;transform: translateY(0) scale(1); opacity: 1;-webkit-transition: -webkit-transform 1s cubic-bezier(0.6, 0.2, 0.1, 1) 0.2s, opacity 1s cubic-bezier(0.6, 0.2, 0.1, 1) 0.2s; transition: transform 1s cubic-bezier(0.6, 0.2, 0.1, 1) 0.2s, opacity 1s cubic-bezier(0.6, 0.2, 0.1, 1) 0.2s; ">
+            <div class="service-box mt-5 mx-auto">
+              <i class="fa fa-video-camera fa-4x text-primary mb-3 sr-icons" data-sr-id="2" style="; visibility: visible;  -webkit-transform: scale(1); opacity: 1;transform: scale(1); opacity: 1;-webkit-transition: -webkit-transform 0.6s cubic-bezier(0.6, 0.2, 0.1, 1) 0s, opacity 0.6s cubic-bezier(0.6, 0.2, 0.1, 1) 0s; transition: transform 0.6s cubic-bezier(0.6, 0.2, 0.1, 1) 0s, opacity 0.6s cubic-bezier(0.6, 0.2, 0.1, 1) 0s; "></i>
+              <h3 class="mb-3 text-dark">Tutorials for BLI installers</h3>
+              <p class="text-muted mb-0">B&O Technical training courses for BLI</p>
+            </div>
+      </a>
+     </div>
+   </div>
+  <div class="col-lg-4">
+     <div align="center">
      <a class="nav-link js-scroll-trigger sr-button" href="/bli-guides/developers-guides" data-sr-id="16" style="; visibility: visible;  -webkit-transform: translateY(0) scale(1); opacity: 1;transform: translateY(0) scale(1); opacity: 1;-webkit-transition: -webkit-transform 1s cubic-bezier(0.6, 0.2, 0.1, 1) 0.2s, opacity 1s cubic-bezier(0.6, 0.2, 0.1, 1) 0.2s; transition: transform 1s cubic-bezier(0.6, 0.2, 0.1, 1) 0.2s, opacity 1s cubic-bezier(0.6, 0.2, 0.1, 1) 0.2s; ">
             <div class="service-box mt-5 mx-auto">
               <i class="fa fa-handshake-o fa-4x text-primary mb-3 sr-icons" data-sr-id="2" style="; visibility: visible;  -webkit-transform: scale(1); opacity: 1;transform: scale(1); opacity: 1;-webkit-transition: -webkit-transform 0.6s cubic-bezier(0.6, 0.2, 0.1, 1) 0s, opacity 0.6s cubic-bezier(0.6, 0.2, 0.1, 1) 0s; transition: transform 0.6s cubic-bezier(0.6, 0.2, 0.1, 1) 0s, opacity 0.6s cubic-bezier(0.6, 0.2, 0.1, 1) 0s; "></i>
@@ -319,6 +340,8 @@ installers_ shows the main differences between both controllers and explains the
       </a>
      </div>
    </div>
+ </div>
+<div class="row justify-content-md-center">
    <div class="col-lg-4">
      <div align="center">
      <a class="nav-link js-scroll-trigger sr-button" href="/help_drivers" data-sr-id="16" style="; visibility: visible;  -webkit-transform: translateY(0) scale(1); opacity: 1;transform: translateY(0) scale(1); opacity: 1;-webkit-transition: -webkit-transform 1s cubic-bezier(0.6, 0.2, 0.1, 1) 0.2s, opacity 1s cubic-bezier(0.6, 0.2, 0.1, 1) 0.2s; transition: transform 1s cubic-bezier(0.6, 0.2, 0.1, 1) 0.2s, opacity 1s cubic-bezier(0.6, 0.2, 0.1, 1) 0.2s; ">
