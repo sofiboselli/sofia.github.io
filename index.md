@@ -47,7 +47,7 @@ The next table shows the comparison between **BeoLiving Intelligence ESSENTIAL**
         <i class="fa fa-check" style="color: #eb5946"></i>
       </td>
     </tr>
-    <tr>
+    <tr title="hello">
       <td>Control of ONVIF enabled cameras</td>
       <td class="text-center">
         <i class="fa fa-check" style="color: #eb5946"></i>
