@@ -6,7 +6,7 @@ layout: pagetoc
 
 This guide shows an example of how to control the BeoRemote Halo through simple macros. In this case, the Halo will be used to show a clock and the weather. In both cases we will use a BeoRemote Halo with the name "Halo" in an area called "My_Area" in a zone called "My_Zone".
 
-##CLOCK
+## CLOCK
 First we'll start with the clock, we will show the time in the center of the button and the month and day in the subtitle, the macro will be fired when pressing the button and each time a minute passes. For this macro we will use the system clock. 
 
 The events for this macro are:
@@ -37,7 +37,7 @@ end
 
 The macro begins by checking the clock's state and getting the day, month, hour and minute values. Sometimes these numbers end with a "!" symbol from the state so we remove them in the nex two lines. Then the only thing missing is to set the button text with "hour:minute" and we add "day/month" to the subtitles. Just to give it a "clock" feel we can add the last command which will set the state of the wheel to the current hour, as the wheel accepts values from 0 to 100 we convert the numbers so that it goes from 0 to 24.
 
-##WEATHER
+## WEATHER
 
 This macro will read the current weather and write it in the subtitle as well as showing a related icon every time the button is pressed.
 For this one we will use the Open Weather system included in the BLI. As resources we will add in the same area and zone as the Halo, a CURRENT_WEATHER resource (although you can choose 3 or 24 Hrs forecast if you prefer), as address set the latitude and longitude of the place you would like to know the weather of. In this example we will use "-34.0634:-55.7284" and name the variable Uruguay.
@@ -73,8 +73,8 @@ function(event, engine)
     icon = "cool"
     subtitle = "COLD"
   end
-  engine.fire("My_Area/My_Zone/Halo/Beoremote Halo/SET_ICON?BUTTON=497f6eca-6276-4993-bfeb-000000810205&ICON="..icon)
-  engine.fire("My_Area/My_Zone/Halo/Beoremote Halo/SET_SUBTITLE?BUTTON=497f6eca-6276-4993-bfeb-000000810205&SUBTITLE="..subtitle)
+  engine.fire("My_Area/My_Zone/Halo remote/Halo/SET_ICON?BUTTON=497f6eca-6276-4993-bfeb-000000810205&ICON="..icon)
+  engine.fire("My_Area/My_Zone/Halo remote/Halo/SET_SUBTITLE?BUTTON=497f6eca-6276-4993-bfeb-000000810205&SUBTITLE="..subtitle)
 end 
 ~~~
 
